@@ -1,0 +1,7 @@
+.python/
+python-installer.exe
+__pycache__/
+*.pyc
+logs/
+assets/*.png
+tools/
